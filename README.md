@@ -42,7 +42,7 @@ Sistema de gestión de contactos con menú interactivo que permite:
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/matrices-multidimensionales-II.git
+git clone https://github.com/OcampoEmiliano/matrices-multidimensionales-II.git
 cd matrices-multidimensionales-II
 ```
 
